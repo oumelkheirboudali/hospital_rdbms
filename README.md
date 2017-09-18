@@ -1,2 +1,2 @@
 # hospital_rdbms
-Desktop app for hospital data management system
+Built a desktop app based on Hospital management system in java with mysql database.
